@@ -1,4 +1,4 @@
-### **online-cv**
+### **my online resume**
 
 This is my online cv or resume. I used a simple and lightweight Jekyll theme that I discovered thanks to [sharu725](https://github.com/sharu725/online-cv). You can view my resume online at [johnwhaney.com/resume](http://johnwhaney.com/resume)
 
